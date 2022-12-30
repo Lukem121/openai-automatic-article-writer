@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "run": "ts-node 1.ts"
+    "run": "ts-node app.ts"
   },
   "dependencies": {
     "dotenv": "^16.0.3",
