@@ -2,8 +2,12 @@
 
 Enter a list of article titles (one per line) in the titles.txt.
 
-You can run the script using ts-node:
-`ts-node app.ts`
+## How to run
+
+1. Remove the .demo from .env.demo
+2. Add your OpenAI API key into the .env file.
+3. You can run the script using ts-node:
+   `ts-node app.ts`
 
 You can find the created files in the output directory.
 
